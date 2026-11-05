@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-valuations-react-inertia",
+  "capabilityKey": "liberusoftware/real-estate-valuations",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-real-estate-valuations-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/real-estate/nextjs/valuations.md",
+  "presentationPlan": "projects/real-estate/react/valuations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
